@@ -1,0 +1,12 @@
+C:\Users\NightChips\Desktop\GCad\GCad\bin\Release\GCad.dll.config
+C:\Users\NightChips\Desktop\GCad\GCad\bin\Release\GCad.dll
+C:\Users\NightChips\Desktop\GCad\GCad\bin\Release\GCad.pdb
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.csprojAssemblyReference.cache
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.AboutMachine.resources
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.Properties.Resources.resources
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.Settings.resources
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.csproj.GenerateResource.cache
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.csproj.CoreCompileInputs.cache
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.dll
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.pdb
+C:\Users\NightChips\Desktop\GCad\GCad\obj\Release\GCad.About.resources
